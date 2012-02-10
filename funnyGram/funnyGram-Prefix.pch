@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'funnyGram' target in the 'funnyGram' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
